@@ -1,5 +1,5 @@
 ## Machine Learning
-The proposed project used machine learning techniques to predict if clients will subscribe to a term deposit in a 􀂦nancialinstitution. 
+The proposed project used machine learning techniques to predict if clients will subscribe to a term deposit in a financial institution. 
 
 ### About the data
 Source : https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset
